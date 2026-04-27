@@ -3,7 +3,7 @@ EAPI=8
 DESCRIPTION="A minimal Git-like version control system written in C."
 HOMEPAGE="https://github.com/Phlegmelm/MyGit"
 
-SRC_URI="https://github.com/SrTortugardo/MyGit-Gentoo-Ebuild/archive/refs/tags/release.zip -> MyGit-1.2.0.zip"
+SRC_URI="https://overlay.pearr.xyz/src/mygit-1.2.0.zip -> MyGit-1.2.0.zip"
 S="${WORKDIR}/MyGit-Gentoo-Ebuild-release"
 LICENSE="MIT"
 SLOT="0"
