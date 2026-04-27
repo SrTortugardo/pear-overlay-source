@@ -7,7 +7,7 @@ SRC_URI="https://overlay.pearr.xyz/src/catrunner-1.0.0.zip -> catrunner.zip"
 
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~arm64"
 
 DEPEND="
     x11-libs/libX11
